@@ -1,0 +1,47 @@
+2018-51-22 06:51:01 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-51-22 06:51:35 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-52-22 06:52:06 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-55-25 05:55:51 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-55-25 05:55:54 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-55-25 05:55:56 INFO  TestBase:41 - Entered Useranme: Admin
+2018-55-25 05:55:56 INFO  TestBase:43 - Entered Password: admin
+2018-56-25 05:56:00 INFO  TestBase:50 - expTitle OrangeHRM and actTitle: OrangeHRMare being compared
+2018-56-25 05:56:01 INFO  TestBase:27 - Test execution started
+2018-56-25 05:56:04 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-56-25 05:56:07 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-56-25 05:56:07 INFO  TestBase:62 - Entered Useranme: Admin
+2018-56-25 05:56:07 INFO  TestBase:64 - Entered Password: admin123
+2018-56-25 05:56:08 INFO  TestBase:71 - expError Invalid credentials and actError: Invalid credentialsare being compared
+2018-58-25 05:58:43 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-58-25 05:58:46 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-58-25 05:58:47 INFO  TestBase:41 - Entered Useranme: Admin
+2018-58-25 05:58:47 INFO  TestBase:43 - Entered Password: admin
+2018-58-25 05:58:51 INFO  TestBase:50 - expTitle OrangeHRM and actTitle: OrangeHRMare being compared
+2018-58-25 05:58:51 INFO  TestBase:27 - Test execution started
+2018-58-25 05:58:55 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-58-25 05:58:57 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-58-25 05:58:57 INFO  TestBase:62 - Entered Useranme: Admin
+2018-58-25 05:58:57 INFO  TestBase:64 - Entered Password: admin123
+2018-58-25 05:58:59 INFO  TestBase:71 - expError Invalid credentials and actError: Invalid credentialsare being compared
+2018-01-25 06:01:53 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-01-25 06:01:56 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-01-25 06:01:58 INFO  TestBase:41 - Entered Useranme: Admin
+2018-01-25 06:01:58 INFO  TestBase:43 - Entered Password: admin
+2018-02-25 06:02:02 INFO  TestBase:50 - expTitle OrangeHRM and actTitle: OrangeHRMare being compared
+2018-02-25 06:02:03 INFO  TestBase:27 - Test execution started
+2018-02-25 06:02:06 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-02-25 06:02:08 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-02-25 06:02:09 INFO  TestBase:62 - Entered Useranme: Admin
+2018-02-25 06:02:09 INFO  TestBase:64 - Entered Password: admin123
+2018-02-25 06:02:10 INFO  TestBase:71 - expError Invalid credentials and actError: Invalid credentialsare being compared
+2018-15-25 06:15:06 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-15-25 06:15:08 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-15-25 06:15:10 INFO  TestBase:41 - Entered Useranme: Admin
+2018-15-25 06:15:10 INFO  TestBase:43 - Entered Password: admin
+2018-15-25 06:15:14 INFO  TestBase:50 - expTitle OrangeHRM and actTitle: OrangeHRMare being compared
+2018-15-25 06:15:14 INFO  TestBase:27 - Test execution started
+2018-15-25 06:15:18 INFO  TestBase:22 - chromeBrowser is Lauched
+2018-15-25 06:15:20 INFO  TestBase:24 - Navigated to the url: http://opensource.demo.orangehrmlive.com/
+2018-15-25 06:15:20 INFO  TestBase:62 - Entered Useranme: Admin
+2018-15-25 06:15:21 INFO  TestBase:64 - Entered Password: admin123
+2018-15-25 06:15:22 INFO  TestBase:71 - expError Invalid credentials and actError: Invalid credentialsare being compared

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="pageTestsLibrary.LoginPageTestSuite">
+        <methods>
+          <include name="testClosure"/>
+          <include name="loginWithInvalidCredentials"/>
+          <include name="initializeTest"/>
+          <include name="loginWithValidCredentials"/>
+        </methods>
+      </class> <!-- pageTestsLibrary.LoginPageTestSuite -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

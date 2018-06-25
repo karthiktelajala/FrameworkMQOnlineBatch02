@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21309" started-at="2018-06-25T00:45:01Z" finished-at="2018-06-25T00:45:23Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="21309" started-at="2018-06-25T00:45:01Z" finished-at="2018-06-25T00:45:23Z">
+      <class name="pageTestsLibrary.LoginPageTestSuite">
+        <test-method status="PASS" signature="initializeTest(java.lang.String)[pri:0, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="initializeTest" is-config="true" duration-ms="7058" started-at="2018-06-25T06:15:01Z" finished-at="2018-06-25T06:15:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="loginWithValidCredentials()[pri:1, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="loginWithValidCredentials" duration-ms="5187" started-at="2018-06-25T06:15:08Z" finished-at="2018-06-25T06:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="testClosure" is-config="true" duration-ms="725" started-at="2018-06-25T06:15:14Z" finished-at="2018-06-25T06:15:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+        <test-method status="PASS" signature="initializeTest(java.lang.String)[pri:0, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="initializeTest" is-config="true" duration-ms="5932" started-at="2018-06-25T06:15:14Z" finished-at="2018-06-25T06:15:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTest -->
+        <test-method status="PASS" signature="loginWithInvalidCredentials()[pri:2, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="loginWithInvalidCredentials" duration-ms="1694" started-at="2018-06-25T06:15:20Z" finished-at="2018-06-25T06:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method status="PASS" signature="testClosure()[pri:0, instance:pageTestsLibrary.LoginPageTestSuite@129a8472]" name="testClosure" is-config="true" duration-ms="694" started-at="2018-06-25T06:15:22Z" finished-at="2018-06-25T06:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClosure -->
+      </class> <!-- pageTestsLibrary.LoginPageTestSuite -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
